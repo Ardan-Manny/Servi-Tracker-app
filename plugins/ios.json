@@ -1,0 +1,47 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-contacts": {
+            "CONTACTS_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-geolocation": {
+            "GEOLOCATION_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        },
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.manuel.workshop"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.manuel.workshop"
+        }
+    }
+}
